@@ -1,0 +1,31 @@
+{
+  "name": "kintai",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
+    "lintfix": "eslint --fix --ext .js,.vue --ignore-path .gitignore ."
+  },
+  "dependencies": {
+    "@babel/preset-env": "^7.12.17",
+    "core-js": "^2.5.7",
+    "firebase": "^8.6.5",
+    "nuxt": "^2.2.0",
+    "optionator": "^0.9.1"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "7.12.17",
+    "@vue/babel-preset-app": "^4.5.13",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.28.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-loader": "^4.0.2",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-vue": "^7.10.0",
+    "prettier": "^2.3.1"
+  }
+}
