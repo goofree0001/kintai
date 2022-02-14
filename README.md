@@ -18,3 +18,13 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+3.Javascript Nuxt.js を使用した簡単な勤怠管理です。
+https://kintai-16a0b.web.app/
+name:admin
+pass:admin
+でログイン
+
+ソース
+https://github.com/goofree0001/kintai
+kintai/pages/index.vue
